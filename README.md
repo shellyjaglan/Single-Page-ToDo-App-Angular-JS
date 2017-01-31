@@ -1,1 +1,1 @@
-# Single-Page-ToDo-App-Angular-JS
+# Single Page ToDo App using Angular-JS
